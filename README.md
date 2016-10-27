@@ -28,9 +28,11 @@ Sample numbered list:
 #### A code block...
 
 ```sh
+
 $ ls -ltr
 $ top
 $ mkdir somefolder
+
 ```
 
 # End.

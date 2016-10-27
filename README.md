@@ -13,26 +13,23 @@ Here is a sample list (whitespace matters):
 * Item 2
 * Item 3
     * Subitem 1
-        * Subitem 2
-	    * Subitem 3
+    * Subitem 2
+	* Subitem 3
 
-	    Sample numbered list:
-	    1. First
-	    1. Second
-	    1. Third
-	        1. First sub
-		    1. Second sub
-		        1. Third sup
+Sample numbered list:
+1. First
+1. Second
+1. Third
+	1. First sub
+	1. Second sub
+	1. Third sub
 
-			This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
-
-
-			#### A code block...
-			```sh
-			$ ls -ltr
-			$ top
-			$ mkdir somefolder
-			```
+#### A code block...
+```sh
+$ ls -ltr
+$ top
+$ mkdir somefolder
+```
 
 # End.
 

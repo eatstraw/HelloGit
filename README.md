@@ -26,6 +26,7 @@ Sample numbered list:
 	1. Third sub
 
 #### A code block...
+
 ```sh
 $ ls -ltr
 $ top

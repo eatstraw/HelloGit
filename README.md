@@ -17,6 +17,7 @@ Here is a sample list (whitespace matters):
 	* Subitem 3
 
 Sample numbered list:
+
 1. First
 1. Second
 1. Third
